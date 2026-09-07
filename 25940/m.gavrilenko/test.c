@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("works");
+    printf("work in progress\n");
     return 0;
 }
